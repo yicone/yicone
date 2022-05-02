@@ -6,7 +6,7 @@ Full-stack Developer
 
 * 🌍 I'm based in Shanghai
 * 🔭 I’m currently working on an industrial IoT project with Java, Vue and Python
-* 🌱 I’m currently learning somthing new by my project: Time Series DB, NumyPy/Pandas/Matplotlib, Pytest...
+* 🌱 I’m currently learning somthing new by my project: Time Series DB, NumPy/Pandas/Matplotlib, Pytest...
 * 🤔 I’m insteresting in Clojure, Machine Learning
 
 ### Skills

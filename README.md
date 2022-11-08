@@ -5,9 +5,10 @@ Full-stack Developer
 --------------------
 
 * 🌍 I'm based in Shanghai
-* 🔭 I’m currently working on some projects: an industry IoT project(Java, Vue, and Python), a catering marketing SaaS project(Rails)
+* I'm a multi-langs programmer. The main languages I use are Ruby, Python, Node.js, Java, C#
+* 🔭 I’m currently working on the following projects, an industrial IoT project(Python, Java, and Vue), and a marketing SaaS product for restaurants(Rails)
 * 🌱 I’m currently learning something new in my project: Time Series DB, NumPy/Pandas, Pytest, Rails, RSpec, LaTeX...
-* 🤔 I’m interesting in ML/DL
+* 🤔 I’m currently curious in PIM, ML/DL, and Complexity Science
 
 ### Skills
 

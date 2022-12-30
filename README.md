@@ -1,14 +1,11 @@
-Hi 👋 My name is yicone
-============================
+Hi, My nickname is yicone 👋
+===========================
 
-Full-stack Developer
---------------------
-
-* 🌍 I'm based in Shanghai
-* I'm a multi-langs programmer. The main languages I use are Ruby, Python, Node.js, Java, C#
-* 🔭 I’m currently working on the following projects, an industrial IoT project(Python, Java, and Vue), and a marketing SaaS product for restaurants(Rails)
-* 🌱 I’m currently learning to master Time Series DB, NumPy/Pandas, Pytest, Rails, RSpec, LaTeX...
-* 🤔 I’m currently curious in PIM, ML/DL, and Complexity Science
+👉I've been working professionally as a software engineer for 18 years.
+👉I mainly use these technology stacks: Ruby w\ Rails, Python, Java w\ Spring/Android, JavaScript w\ full-stack, C# w\ .NET, and I respect the conventions of each community.
+👉I'm freelancing for a startup that provides reservation services for the restaurant industry, whose main technology stack is Rails 6, and I also maintain its legacy projects on my own using Java w\ Spring, AngularJS, and VueJS.
+👉I'm also currently contracted to work on an industrial IoT project that requires dealing with MQTT, Pandas, matplotlib, and other such technologies.
+👉My current spare time interests are PIM, ML/DL, complexity science.
 
 ### Skills
 

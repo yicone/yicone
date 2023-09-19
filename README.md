@@ -1,13 +1,13 @@
 Hi, My nickname is yicone 👋
 ===========================
 
-👨‍💻 19 years of professional software engineering experience.
-🛠️ Proficient in various technologies including Ruby/Rails, Python, Java/Spring/Android, JavaScript/Vue/Angular/React/Ionic/Node.js, C#/.NET.
-🏢 Currently serving as Chief Software Architect of Digital Sales & Marketing at a large manufacturing company.
-💼 Freelancing for a restaurant reservation startup primarily using Rails 6, with additional maintenance of legacy projects in Java/Spring and AngularJS.
-🌐 Involved in an industrial IoT project working with MQTT, Pandas, matplotlib, Time Series DB.
-🗣️ Native Chinese speaker with fluent English reading and writing.
-💼 Open to remote freelance/part-time opportunities.
+- 👨‍💻 19 years of professional software engineering experience.
+- 🛠️ Proficient in various technologies including Ruby/Rails, Python, Java/Spring/Android, JavaScript/Vue/Angular/React/Ionic/Node.js, C#/.NET.
+- 🏢 Currently serving as Chief Software Architect of Digital Sales & Marketing at a large manufacturing company.
+- 💼 Freelancing for a restaurant reservation startup primarily using Rails 6, with additional maintenance of legacy projects in Java/Spring and AngularJS.
+- 🌐 Involved in an industrial IoT project working with MQTT, Pandas, matplotlib, Time Series DB.
+- 🗣️ Native Chinese speaker with fluent English reading and writing.
+- 💼 Open to remote freelance/part-time opportunities.
 
 ### Skills
 

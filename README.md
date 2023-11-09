@@ -46,9 +46,4 @@ Hi, My nickname is yicone 👋
 
 <a href="http://www.github.com/yicone"><img src="https://github-readme-stats.vercel.app/api?username=yicone&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="yicone's GitHub stats" /></a>
 
-<a href="http://www.github.com/yicone"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yicone&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-
-
+<a href="http://www.github.com/yicone"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yicone&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="yicone's GitHub stats" /></a>

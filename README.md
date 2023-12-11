@@ -7,7 +7,6 @@ Hi, My nickname is yicone 👋
 - 💼 Freelancing for a restaurant reservation startup primarily using Rails 6, with additional maintenance of legacy projects in Java/Spring and AngularJS.
 - 🌐 Involved in an industrial IoT project working with MQTT, Pandas, matplotlib, Time Series DB.
 - 🗣️ Native Chinese speaker with fluent English reading and writing.
-- 💼 Open to remote freelance/part-time opportunities.
 
 ### Socials
 
